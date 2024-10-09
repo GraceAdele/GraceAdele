@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python, Data Science and Product Management
 - 🌱 I’m currently learning Python, SQL & R
 - 💞️ I’m looking to collaborate on Data Science Projects
+- Here is how to reach me on LinkedIn
 
 - ⚡ Fun fact: I work in the Tech Sector but as a Non Techie :)
 
